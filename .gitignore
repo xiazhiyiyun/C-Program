@@ -68,3 +68,5 @@
 *.in
 *.out
 *.file
+*_in
+*_file
