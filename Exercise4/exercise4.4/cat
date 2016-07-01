@@ -1,0 +1,11 @@
+total 44
+drwxrwxr-x. 3 500 500 4096 Jun 30 19:58 autoload
+-rw-rw-r--. 1 500 500 6823 Jun 30 19:58 CHANGELOG
+drwxrwxr-x. 2 500 500 4096 Jun 30 19:58 doc
+drwxrwxr-x. 3 500 500 4096 Jun 30 19:58 lib
+-rw-rw-r--. 1 500 500  474 Jun 30 19:58 LICENCE
+drwxrwxr-x. 2 500 500 4096 Jun 30 19:58 nerdtree_plugin
+drwxrwxr-x. 2 500 500 4096 Jun 30 19:58 plugin
+-rw-rw-r--. 1 500 500 4590 Jun 30 19:58 README.markdown
+drwxrwxr-x. 2 500 500 4096 Jun 30 19:58 syntax
+

@@ -67,6 +67,8 @@
 #txt file
 *.in
 *.out
+*.txt
 *.file
 *_in
 *_file
+tags
